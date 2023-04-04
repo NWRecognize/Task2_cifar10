@@ -1,6 +1,6 @@
 # Task2_cifar10
 Лабораторная работа №2
-Подгрузка датасета
+#Подгрузка датасета
 ![image](https://user-images.githubusercontent.com/118212881/229903979-370ffe48-6115-40b6-9f61-817bd59b76e5.png)
 Установка слоёв в нейронную сеть
 ![image](https://user-images.githubusercontent.com/118212881/229903149-500a5078-9efc-4bd0-88a7-61c5064d0457.png)
